@@ -1,0 +1,21 @@
+﻿Id,Value,Type,Attribution,Source,LastUpdated
+154eee53-e5ed-40f4-ba06-5875568ac3aa,1.0.0.0,IP,Patchwork,https://portal-digitalshadows.com/api/external/resources/acd395a3-a5bb-460c-97f2-ead662987d27,2018-06-08T00:00:00.000Z
+24e4e443-ed42-4a2c-8ab2-f20e4fd3dbbc,1.0.0.1,IP,,https://openphish.com/,2022-01-05T02:32:51.321Z
+8f4ee3e8-440e-4835-80c0-a3c9e30e7389,1.0.0.1,IP,"Lazarus Group",https://portal-digitalshadows.com/api/external/resources/08a3aa67-010e-4950-a8e6-23b540cc53b2,2017-12-20T00:00:00.000Z
+1954c62c-ff23-4e8c-bffc-fa41711ad067,100.24.133.246,IP,,https://openphish.com/,2022-01-03T06:49:51.803Z
+d798e90a-7c73-4e8e-8313-dbfa06856eb7,100.24.200.233,IP,,https://openphish.com/,2021-11-13T23:38:25.122Z
+ed3b9765-d2cb-468c-a37a-d13150a93a47,100.24.208.97,IP,,https://openphish.com/,2021-03-16T20:03:22.646Z
+0bca0366-5357-48c5-a813-c6a62306b33b,100.24.244.146,IP,,https://openphish.com/,2021-08-26T12:34:28.930Z
+ca65bb29-141c-4f08-8b3b-8139dd26e6b8,100.25.154.105,IP,,https://openphish.com/,2021-04-18T08:29:15.787Z
+49426ee4-d839-4c3e-bb09-31f7cd334b37,100.25.220.85,IP,,https://openphish.com/,2021-04-09T01:32:56.425Z
+7ec07628-eaf2-4fa1-acd8-84ec251248c6,100.25.242.65,IP,,https://openphish.com/,2021-08-20T16:58:05.685Z
+23ab9f7f-feaa-4f94-9114-027195c22ad9,100.25.52.1,IP,,https://openphish.com/,2021-04-21T15:53:30.995Z
+d07b1709-2c8b-4c3e-9492-942db543f495,100.26.138.97,IP,,https://openphish.com/,2021-03-31T17:41:47.349Z
+68decd4b-e013-489e-a498-b5bc2a0b29a4,100.26.171.136,IP,,https://openphish.com/,2021-07-27T13:03:37.334Z
+83f1b9b6-38fc-466d-aa2f-1fe41a4d31de,100.26.180.219,IP,,https://openphish.com/,2021-09-09T15:33:06.048Z
+c123ce03-6160-4a2b-94c6-82130a630625,100.26.60.62,IP,,https://openphish.com/,2021-10-14T22:31:07.754Z
+add9eff2-c528-46e7-ba2b-c49e70de4fa5,100.27.26.151,IP,,https://openphish.com/,2021-03-22T18:54:26.150Z
+1d83ec5e-06c9-4597-9abe-cbde8fbdfe79,100.34.107.19,IP,,https://openphish.com/,2021-03-18T09:56:22.501Z
+f5c3d9d4-b388-402d-a99b-a355d00ff780,100.42.50.206,IP,,https://openphish.com/,2021-09-27T11:57:59.152Z
+47b7e4b5-75a9-4a7e-887c-2164b1113cd4,100.42.56.91,IP,,https://openphish.com/,2021-11-08T02:03:37.909Z
+7a02c513-9201-4e29-8c90-b1774be94d1b,100.42.64.112,IP,,https://openphish.com/,2021-10-20T17:03:43.030Z
